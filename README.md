@@ -25,3 +25,8 @@ First, we preprocessed the datasets. Then we applied Logistic Regression and Ada
 Here we implemented a Feed Forward Neural Network from scratch. We used the `MNIST` dataset for training and testing the model. We used `ReLU` as the activation function and `Cross Entropy Loss` as the loss function. We used `Mini Batch Gradient Descent` for optimization.
 
 [See the results here](./Offline_3/report_1805064.pdf)
+
+## Assignment 4: PCA and EM Algorithm
+
+[See the details here](./Offline_4/CSE472%20[July%202023]%20Assignment-4.pdf)
+
